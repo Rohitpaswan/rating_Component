@@ -1,0 +1,8 @@
+.hide{
+    display: none;
+}
+
+.active{
+    background-color: hsl(217, 12%, 63%);
+    color:  hsl(220, 11%, 11%);
+}
